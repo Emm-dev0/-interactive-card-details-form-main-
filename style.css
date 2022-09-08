@@ -227,10 +227,9 @@ p {
     }
     
     .left{
-        background-image: url(/images/bg-main-mobile.png);
+        background-image: url(./images/bg-main-mobile.png);
         height: 100%;
         display: flex;
-        /* flex: 1; */
         width: 100vw;
     }
     .right {

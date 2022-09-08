@@ -216,27 +216,27 @@ p {
 
 @media screen and (max-width:480px){
     body {
-        width: 100vw;
+        width: 100%;
         flex-direction: column;
         height: 100vh;
     }
 
     .left-container {
         height: 40%;
-        width: 100vw;
+        width: 100%;
     }
     
     .left{
         background-image: url(./images/bg-main-mobile.png);
         height: 100%;
         display: flex;
-        width: 100vw;
+        width: 100%;
     }
     .right {
-        width: 100vw;
+        width: 100%;
         justify-content: center;
         height: 60%;
-        padding: 0 15px;
+        padding: 0 20px;
     }  
     form {
         width: 100%;

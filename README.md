@@ -45,7 +45,7 @@ Users should be able to:
 
 ### What I learned
 
-i gained more knowledge on javascript ans css.
+i gained more knowledge on javascript and css.
 
 
 

@@ -12,7 +12,6 @@ This is a solution to the [Interactive card details form challenge on Frontend M
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -27,10 +26,11 @@ Users should be able to:
 - See hover, active, and focus states for interactive elements on the page
 
 
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Emm-dev0/-interactive-card-details-form-main-)
+- Live Site URL: [Add live site URL here](https://emm-dev0.github.io/-interactive-card-details-form-main-/)
 
 ## My process
 
@@ -52,6 +52,6 @@ i gained more knowledge on javascript ans css.
 ## Author
 
 - github - [emm-dev0](https://emm-dev0.github.io/)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Twitter - [@Emm_dev](https://www.twitter.com/yourusername)
 
 

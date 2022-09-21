@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Emm-dev0/-interactive-card-details-form-main-)
-- Live Site URL: [Add live site URL here](https://emm-dev0.github.io/-interactive-card-details-form-main-/)
+- Solution URL: [https://github.com/Emm-dev0/-interactive-card-details-form-main-](https://github.com/Emm-dev0/-interactive-card-details-form-main-)
+- Live Site URL: [https://emm-dev0.github.io/-interactive-card-details-form-main-/](https://emm-dev0.github.io/-interactive-card-details-form-main-/)
 
 ## My process
 
@@ -52,6 +52,6 @@ i gained more knowledge on javascript and css.
 ## Author
 
 - github - [emm-dev0](https://emm-dev0.github.io/)
-- Twitter - [@Emm_dev](https://www.twitter.com/yourusername)
+- Twitter - [@Emm_dev](https://www.twitter.com/[Emm_dev)
 
 
